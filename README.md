@@ -11,7 +11,6 @@ I have recently discovered that I like to coach or mentor other engineers and ha
 * I am a huge fan of C# and the .NET ecosystem
 * I am passionate about application security and advocating for responsible engineering practices
 * I love the idea of Rust and I am actively learning it, though haven't been able to introduce it into a professional environment (yet)
-* I enjoy making fun of JavaScript
 * I feel very satisfied coming up with simple solutions to everyday annoyances
 * Most of my time is spent coming up with ideas for neat projects, starting them, learning a lot, and then not finishing them. I guess that's my favorite hobby? 🤷‍♂️
 
